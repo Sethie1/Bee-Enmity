@@ -1,0 +1,58 @@
+{
+	"name": "Bee",
+	"author": "Sethie#1663",
+	"version": "1",
+	"description": "Hehe bee is yellow",
+	"authors": [ 
+		{
+			"name": "Sethie",
+			"id": "930850552630366259"
+		}
+	],
+	"background": {
+		"blur": "0",
+		"url": "https://i.imgur.com/SszIWnt.png",
+		"alpha": "0.25"
+	},
+	"theme_color_map": {
+		"KEYBOARD": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_PRIMARY": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_SECONDARY": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_SECONDARY_ALT": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_TERTIARY": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_ACCENT": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_FLOATING": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_NESTED_FLOATING": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#FFFF00", "#FFFF00"],
+		"CHANNELS_DEFAULT": ["#FFFF00", "#FFFF00"],
+		"HEADER_PRIMARY": ["#FFFF00", "#FFFF00"],
+		"HEADER_SECONDARY": ["#FFFF00", "#FFFF00"],
+		"INTERACTIVE_ACTIVE": ["#FFFF00", "#FFFF00"],
+		"INTERACTIVE_MUTED": ["#FFFF00", "#FFFF00"],
+		"INTERACTIVE_NORMAL": ["#FFFF00", "#FFFF00"],
+		"TEXT_LINK": ["#FFFF00", "#FFFF00"],
+		"TEXT_MUTED": ["#FFFF00", "#FFFF00"],
+		"TEXT_NORMAL": ["#FFFF00", "#FFFF00"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FFFF00",
+		"PRIMARY_DARK_100": "#FFFF00",
+		"PRIMARY_DARK_300": "#FFFF00",
+		"PRIMARY_DARK_360": "#FFFF00",
+		"PRIMARY_DARK_400": "#FFFF00",
+		"PRIMARY_DARK_500": "#FFFF00",
+		"PRIMARY_DARK_600": "#FFFF00",
+		"PRIMARY_DARK_630": "#FFFF00",
+		"PRIMARY_DARK_700": "#FFFF00",
+		"PRIMARY_DARK_800": "#FFFF00",
+		"BRAND_NEW": "#FFFF00",
+		"WHITE": "#FFFF00"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#FFFF00"
+	}
+}
